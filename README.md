@@ -35,3 +35,4 @@ We’re open to contributors, dreamers, critics, and collaborators. Feel free to
 ## 🌐 About This Lab
 - 🔧 All codebases are currently maintained by [@bvrvl](https://github.com/bvrvl) .
 - 💬 Join the [Discord community here](https://discord.gg/9bnJzxzHKU) or [shoot me a message directly](https://discord.com/users/bvrvl/).
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.gg/9bnJzxzHKU)
