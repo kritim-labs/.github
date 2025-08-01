@@ -28,7 +28,7 @@ We kept the typo because we believe imperfections carry meaning.
 
 ## 🛠️ Collaboration
 
-We’re open to contributors, dreamers, critics, and collaborators. Feel free to reach out.
+We’re open to contributors, dreamers, critics, and collaborators. Feel free to [reach out](mailto:saurabh@bvrvl.com).
 
 ---
 
