@@ -22,6 +22,8 @@ We kept the typo because we believe imperfections carry meaning.
 
 ### Open Source
 - **Smriti** — A journaling and reflection engine rooted in memory and self-understanding. [Repo](https://github.com/bvrvl/Smriti)
+
+- **You Were Gonna End Up Here** - An interactive, full-stack web application that explores the philosophy of determinism. Users begin with a single event and trace its causes backward, guided by a generative AI, to uncover an inevitable origin point. [Repo](https://github.com/bvrvl/you-were-gonna-end-up-here) ; Live [Demo](https://you-were-gonna-end-up-here.vercel.app)
 ### Proprietary
 - **FiradPatra** — A legal assistant designed for the nuances of Nepali law and the lived realities of its practitioners. Demo [Repo](https://github.com/bvrvl/firad-patra) ; Live [Website](https://firadpatra.com)
 
